@@ -15,7 +15,6 @@ The project presents VideoReTalking, a new system to edit the faces of a real-wo
 
 [Output video](https://drive.google.com/file/d/1rSfhsCWHy4VoM6A2RqRJ-eiNOjGUhvV6/view?usp=sharing)
 
-## output video
-![output video](https://github.com/user-attachments/assets/6c57a1dc-693e-4b18-aafc-faee0be7d88c)
+
 
 
